@@ -1,0 +1,4 @@
+# TensorFlow (with Keras 3) for Chapter 13 Program 3 and Appendix D.
+# Install with:   python -m pip install -r requirements-tensorflow.txt
+-r requirements.txt
+tensorflow>=2.16

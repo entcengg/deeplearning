@@ -1,0 +1,15 @@
+# Libraries for every program in the book except the two that use TensorFlow
+# (Chapter 13 Program 3 and Appendix D; see requirements-tensorflow.txt).
+# Install with:   python -m pip install -r requirements.txt
+# The versions that produced expected_output/ are listed in README.md.
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+torch>=2.5
+# Chapter 28 (deployment): model export and a small web server
+onnx>=1.16
+onnxruntime>=1.18
+flask>=3.0
+requests>=2.31

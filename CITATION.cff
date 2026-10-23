@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the book it accompanies."
+title: "Deep Learning with Python: A Practical and Mathematical Introduction — Companion Code"
+type: software
+version: 1.0.0
+license: MIT
+abstract: >-
+  Every program printed in the book Deep Learning with Python: A Practical and
+  Mathematical Introduction (Nitin Rakesh, Viraj Gulhane and Shreyas Hole,
+  2026), organized chapter by chapter under the file names the book uses, with
+  the expected output of each program, a Jupyter/Colab notebook per chapter,
+  and the scripts that generate the book's figures. The programs cover the
+  mathematics of neural networks implemented from scratch in NumPy,
+  backpropagation, optimizers and regularization, PyTorch and Keras, CNNs,
+  RNNs, LSTMs and GRUs, attention and Transformers, NLP, autoencoders, GANs,
+  diffusion models, object detection, segmentation, time series,
+  explainability and responsible AI, and deployment.
+keywords:
+  - deep learning
+  - neural networks
+  - machine learning
+  - Python
+  - PyTorch
+  - Keras
+  - NumPy
+  - textbook
+  - education
+authors:
+  - given-names: Nitin
+    family-names: Rakesh
+  - given-names: Viraj
+    family-names: Gulhane
+    affiliation: "Sipna College of Engineering and Technology, Amravati, India"
+    orcid: "https://orcid.org/0000-0003-4271-3781"
+  - given-names: Shreyas
+    family-names: Hole
